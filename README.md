@@ -13,7 +13,10 @@ This is a simple auction bidding program that allows multiple users to place bid
 
 1. Make sure you have Python installed on your system.
 2. Install the `art` library using the command:
-3. python <silent-auction>.py
+   bash
+   pip install art
+
+3. python silent-auction.py
 ## Example
 
 What's your name? Robert
